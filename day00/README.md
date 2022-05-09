@@ -11,17 +11,17 @@
 3. [Chapter III](#chapter-iii) \
 	3.1. [Rules of the Day](#rules-of-the-day)
 4. [Chapter IV](#chapter-iv) \
-	4.1. [Exercise 00 – Sum of Digits](#exercise-00-sum-of-digits)
+	4.1. [Exercise 00 – Sum of Digits](#exercise-00:-sum-of-digits)
 5. [Chapter V](#chapter-v) \
-	5.1. [Exercise 01 – Really Prime Number](#exercise-01-really-prime-number)
+	5.1. [Exercise 01 – Really Prime Number](#exercise-01:-really-prime-number)
 6. [Chapter VI](#chapter-vi) \
-	6.1. [Exercise 02 – Endless Sequence (or not?)](#exercise-02-endless-sequence-or-not)
+	6.1. [Exercise 02 – Endless Sequence (or not?)](#exercise-02:-endless-sequence-or-not)
 7. [Chapter VII](#chapter-vii) \
-	7.1. [Exercise 03 – A Little Bit of Statistics](#exercise-03-a-little-bit-of-statistics)
+	7.1. [Exercise 03 – A Little Bit of Statistics](#exercise-03:-a-little-bit-of-statistics)
 8. [Chapter VIII](#chapter-viii) \
-	8.1. [Exercise 04 – A Bit More of Statistics](#exercise-04-a-bit-more-of-statistics)
+	8.1. [Exercise 04 – A Bit More of Statistics](#exercise-04:-a-bit-more-of-statistics)
 9. [Chapter IX](#chapter-ix) \
-	9.1. [Exercise 05 – Schedule](#exercise-05-schedule)
+	9.1. [Exercise 05 – Schedule](#exercise-05:-schedule)
 
 
 # Chapter I 
@@ -62,7 +62,7 @@ Java Man, or *Homo erectus erectus*
 P.S. Some tasks require a non-trivial approach because of the above-mentioned limitations. These limitations will teach you how to find solutions for automating actual business processes.
 
 # Chapter IV
-### Exercise 00 Sum of Digits
+### Exercise 00: Sum of Digits
 
 |Exercise 00: Sum of Digits||
 |------|------|
@@ -86,7 +86,7 @@ $ java Program
 ```
 
 # Chapter V
-### Exercise 01 – Really Prime Number
+### Exercise 01: Really Prime Number
 
 |Exercise 01: Really Prime Number||
 |------|------|
@@ -126,7 +126,7 @@ $ java Program
 ```
 
 # Chapter VI
-### Exercise 02 – Endless Sequence (or not?)
+### Exercise 02: Endless Sequence (or not?)
 
 |Exercise 02: Endless Sequence (or not?)||
 |------|------|
@@ -159,7 +159,7 @@ $ java Program
 ```
 
 # Chapter VII
-### Exercise 03 – A Little Bit of Statistics
+### Exercise 03: A Little Bit of Statistics
 Exercise 03: A Little Bit of Statistics ||
 ---|---
 Turn-in directory |	ex03
@@ -210,7 +210,7 @@ Week 4 ====>
 ```
 
 # Chapter VIII
-### Exercise 04 – A Bit More of Statistics
+### Exercise 04: A Bit More of Statistics
 Exercise 04: A Bit More of Statistics ||
 ---|---
 Turn-in directory	| ex04
@@ -263,7 +263,7 @@ $ java Program
 ```
 
 # Chapter IX
-### Exercise 05 – Schedule
+### Exercise 05: Schedule
 
 Exercise 05: Schedule ||
 ---|---
