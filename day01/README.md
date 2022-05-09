@@ -78,7 +78,7 @@ A transfer entry may obviously be lost in such a complex system—it may not be 
 Below is a set of exercises you can do one by one to solve the task.
 
 # Chapter IV
-### Exercise 00 – Models
+### Exercise 00 Models
 
 Exercise 00: Models ||
 ---|---
@@ -109,7 +109,7 @@ It is necessary to check the initial user balance (it cannot be negative), as we
 An example of use of such classes shall be contained in Program file (creation, initialization, printing object content on a console). All data for class fields must be hardcoded in Program.
 
 # Chapter V
-### Exercise 01 – ID Generator
+### Exercise 01 ID Generator
 
 Exercise 01: ID Generator||
 ---|---
@@ -138,7 +138,7 @@ public User(...) {
 ```
 
 # Chapter VI
-### Exercise 02 – List of Users
+### Exercise 02 List of Users
 
 Exercise 02: List of Users||
 ---|---
@@ -169,7 +169,7 @@ An example of use of such classes shall be contained in Program file (creation, 
 Nested ArrayList<T> Java class has the same structure. By modeling behavior of this class on your own, you will learn how to use mechanisms of this standard library class. 
 
 # Chapter VII
-### Exercise 03 – List of Transactions
+### Exercise 03 List of Transactions
 
 Exercise 03: List of Transactions||
 ---|---
@@ -194,7 +194,7 @@ An example of use of such classes shall be contained in Program file (creation, 
 - LinkedList<T> nested Java class has the same structure, a bidirectional linked list.
 
 # Chapter VIII
-### Exercise 04 – Business Logic
+### Exercise 04 Business Logic
 
 Exercise 04: Business Logic||
 ---|---
@@ -217,7 +217,7 @@ In case of an attempt to make a transfer of the amount exceeding user's residual
 An example of use of such classes shall be contained in Program file (creation, initialization, printing object content on a console).
 
 # Chapter IX
-### Exercise 05 – Menu
+### Exercise 05 Menu
 
 Exercise 05: Menu||
 ---|---
