@@ -11,7 +11,7 @@
 3. [Chapter III](#chapter-iii) \
   3.1. [Rules of the Day](#rules-of-the-day)
 4. [Chapter IV](#chapter-iv) \
-  4.1. [Exercise 00 – Tables & Entities](#exercise-00-tables-entities)
+  4.1. [Exercise 00 – Tables & Entities](#exercise-00-tables-and-entities)
 5. [Chapter V](#chapter-v) \
   5.1. [Exercise 01 – Read/Find](#exercise-01-readfind)
 6. [Chapter VI](#chapter-vi) \
@@ -71,7 +71,7 @@ This approach apparently has a lot of specifics. For example, if new values cons
 - To interact with the database, you may use classes and interfaces of the java.sql package (implementations of corresponding interfaces will be automatically included from the archive containing the driver).
 
 # Chapter IV
-### Exercise 00 Tables & Entities
+### Exercise 00 Tables and Entities
 
 Exercise 00: Tables & Entities ||
 ---|---
