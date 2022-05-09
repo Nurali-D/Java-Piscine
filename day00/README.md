@@ -27,7 +27,7 @@
 # Chapter I 
 ### Preamble
 
-![java-man](/images/java-man.png)<br>
+![java-man](./images/java-man.png)<br>
 Java Man, or *Homo erectus erectus*
 
 # Chapter II
@@ -293,4 +293,4 @@ Each application operation stage is divided by "." (period). Absolute correctnes
 
 Example of program operation:
 
-![program](/images/program.png)
+![program](./images/program.png)
