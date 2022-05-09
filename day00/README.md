@@ -62,7 +62,7 @@ Java Man, or *Homo erectus erectus*
 P.S. Some tasks require a non-trivial approach because of the above-mentioned limitations. These limitations will teach you how to find solutions for automating actual business processes.
 
 # Chapter IV
-### Exercise 00 – Sum of Digits
+### Exercise 00 Sum of Digits
 
 |Exercise 00: Sum of Digits||
 |------|------|
