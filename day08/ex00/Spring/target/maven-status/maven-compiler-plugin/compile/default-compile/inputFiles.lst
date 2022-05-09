@@ -1,0 +1,10 @@
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/interfaces/Renderer.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/PreProcessorToLower.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/interfaces/Printer.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/PrinterWithDateTimeImpl.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/RendererStandardImpl.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/RendererErrImpl.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/app/Main.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/PreProcessorToUpperImpl.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/interfaces/PreProcessor.java
+/home/dn/Desktop/java_piscine/day08/ex00/Spring/src/main/java/edu/school21/models/PrinterWithPrefixImpl.java

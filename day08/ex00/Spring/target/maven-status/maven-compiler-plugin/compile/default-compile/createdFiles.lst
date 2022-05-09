@@ -1,0 +1,10 @@
+edu/school21/interfaces/Printer.class
+edu/school21/interfaces/PreProcessor.class
+edu/school21/models/PreProcessorToUpperImpl.class
+edu/school21/interfaces/Renderer.class
+edu/school21/models/RendererErrImpl.class
+edu/school21/models/PreProcessorToLower.class
+edu/school21/app/Main.class
+edu/school21/models/PrinterWithDateTimeImpl.class
+edu/school21/models/RendererStandardImpl.class
+edu/school21/models/PrinterWithPrefixImpl.class

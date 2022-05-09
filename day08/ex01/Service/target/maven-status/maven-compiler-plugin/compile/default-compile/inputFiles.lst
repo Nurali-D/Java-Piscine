@@ -1,0 +1,6 @@
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/application/Main.java
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/repositories/CrudRepository.java
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepositoryJdbcImpl.java
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepository.java
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/repositories/UsersRepositoryJdbcTemplateImpl.java
+/home/dn/Desktop/java_piscine/day08/ex01/Service/src/main/java/school21/spring/service/models/User.java

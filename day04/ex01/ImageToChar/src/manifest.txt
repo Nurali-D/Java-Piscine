@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: ltulune
+Created-By: 8 (Oracle Corporation)
+Main-Class: edu.school21.printer.app.Program
+
