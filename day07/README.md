@@ -149,7 +149,7 @@ Method returned:
 - You may use throws operator.
 
 # Chapter IV
-### Exercise 01 Annotations – SOURCE
+### Exercise 01 Annotations SOURCE
 
 Exercise 01: Annotations – SOURCE ||
 ---|---
