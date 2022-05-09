@@ -13,7 +13,7 @@
 4. [Chapter IV](#chapter-iv) \
   4.1. [Exercise 01 – First JAR](#exercise-01-first-jar)
 5. [Chapter V](#chapter-v) \
-  5.1. [Exercise 02 – JCommander & JCDP](#exercise-02-jcommander-jcdp)
+  5.1. [Exercise 02 – JCommander & JCDP](#exercise-02-jcommander-and-jcdp)
 
 # Chapter I 
 ### Preamble
@@ -115,7 +115,7 @@ Archive and all compiled files shall be put in target folder during assembly (wi
 README.txt file should also contain information on the archive assembly and startup.
 
 # Chapter V
-### Exercise 02 JCommander & JCDP
+### Exercise 02 JCommander and JCDP
 Exercise 02: JCommander & JCDP ||
 ---|---
 Turn-in directory	| ex02
