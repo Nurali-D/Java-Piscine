@@ -220,4 +220,4 @@ For example, a command for sending a message may look as follows (specific conte
   "fromId" : 4,
   "roomId": 10
 }
-```
+``` 

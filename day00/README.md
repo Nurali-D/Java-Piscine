@@ -293,4 +293,4 @@ Each application operation stage is divided by "." (period). Absolute correctnes
 
 Example of program operation:
 
-![program](./images/program.png)
+![program](./images/program.png) 

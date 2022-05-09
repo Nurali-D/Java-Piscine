@@ -226,4 +226,4 @@ public <T> T findById(Long id, Class<T> aClass)
 
 - OrmManager shall ensure the output of generated SQL onto the console during execution.
 - In initialization, OrmManager shall remove created tables.
-- Update method shall replace values in columns specified in the entity, even if object field value is null.
+- Update method shall replace values in columns specified in the entity, even if object field value is null. 

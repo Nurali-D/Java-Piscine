@@ -195,4 +195,4 @@ Thread-1 finish download file number 5
 **Notes**:
 - Output created by the implemented program may differ from the illustration.
 - Each file is downloaded only once by a single thread.
-- The program may contain an "infinite loop" without the exit condition (in this case, the program can be shut down by interrupting the process).
+- The program may contain an "infinite loop" without the exit condition (in this case, the program can be shut down by interrupting the process). 

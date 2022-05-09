@@ -347,4 +347,4 @@ Transfer To Mike(id = 2) 150 removed
 -> 6
 Check results:
 Mike(id = 2) has an unacknowledged transfer id = 1fc852e7-914f-4bfd-913d-0313aab1ed99 from John(id = 1) for 150
-```
+``` 

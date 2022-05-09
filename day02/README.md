@@ -196,4 +196,4 @@ animation.gif 50 KB
 ```
 
 **Note**:<br>
-You should test the program functionality using your own set of files/folders.
+You should test the program functionality using your own set of files/folders. 

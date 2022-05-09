@@ -311,4 +311,4 @@ Authenticate method shall be checked for three cases:
                 -	data.csv
                 -	schema.sql
                 -	data.sql
-    - pom.xml
+    - pom.xml 

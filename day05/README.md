@@ -275,4 +275,4 @@ The implemented method operation should be demonstrated in Program.java.
 **Notes**:
 - findAll(int page, int size) method shall be implemented by a SINGLE database query. It is not allowed to use additional SQL queries to retrieve information for each user.
 - We recommend using CTE PostgreSQL.
-- UsersRepositoryJdbcImpl shall accept DataSource interface of java.sql package as a constructor parameter.
+- UsersRepositoryJdbcImpl shall accept DataSource interface of java.sql package as a constructor parameter. 

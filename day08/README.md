@@ -220,4 +220,4 @@ To check if your service works correctly, implement an integration test for User
                         - TestApplicationConfig
                     - services
                         - UsersServiceImplTest
-    -	pom.xml
+    -	pom.xml 

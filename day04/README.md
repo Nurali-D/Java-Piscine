@@ -149,4 +149,4 @@ Example of program operation:
 
 `$ java -jar images-to-chars-printer.jar --white=RED --black=GREEN`
 
-![it_red](./images/it_red.png)
+![it_red](./images/it_red.png) 
