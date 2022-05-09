@@ -70,7 +70,7 @@ Below are several best practices for module and integration testing:
 ![test](./images/test.png)
 
 # Chapter IV
-### Exercise 00 – First Tests
+### Exercise 00 First Tests
 
 Exercise 00: First Tests ||
 ---|---
